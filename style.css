@@ -1,0 +1,115 @@
+
+body{
+    padding: 30;
+    margin: 0;
+    font-family: 'Josefin Sans',sans-serif;
+   
+    position: relative;
+   
+}
+.container{
+    background-color: aqua;
+    width: 25%;
+    height: 650px;
+    margin-left:3%;
+    padding: 10%;
+    margin-top: 40px;
+    margin-bottom: 20px;
+
+}
+
+
+ .brand p{
+    
+    font-size: 35px;
+    letter-spacing: 1px;
+    cursor:pointer;
+    margin-top: 50px;
+    
+
+    
+
+} 
+img{
+    padding: 1%;
+    margin-top: -1%;
+    margin-left:10% ;
+    height: 20%;
+
+}
+.h3{
+ margin-bottom: 40%;
+}
+p{
+    margin-left: 3%;
+}
+.box{
+    margin-left: 7%;
+    margin-top: 2%;
+    
+    
+    
+}
+.icon{
+    margin-left: 8%;
+    color: green;
+}
+.con{
+    margin-left:25% ;
+    margin-top: -1%;
+    color: rgb(12, 12, 12);
+}
+.coni{
+    margin-left: 40%;
+    margin-top: -1%;
+    color: red;
+}
+
+h3 {
+padding-left: 15%;
+margin-top: -45%;
+}
+h4{
+    margin-left: 3%;
+    margin-top: 2%;
+    padding-left: 10%;
+}
+  /* .hr{
+    width: 15%;
+    height: -1%;
+    border: 0 none;
+    margin-right: 8%;
+    margin-left: auto;
+    margin-top: 3%;
+    margin-bottom: 5%;
+    background-color: black;
+}    */
+h5{
+    padding-left: 5%;
+}
+.Anita{
+    background-color: aqua;
+    width: 45%;
+    height: 917px;
+    margin-left:52%;
+    margin-top: -70%;
+    margin-bottom: 20px;
+
+}
+
+
+
+.title h5{
+    margin-top: 3%;
+    padding: 10%;
+}
+.top img{
+    margin-top: 20%;
+    margin-left: 25%;
+}
+.box{
+    margin-right: 70%;
+}
+
+
+
